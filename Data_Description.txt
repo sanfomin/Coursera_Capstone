@@ -1,0 +1,4 @@
+The data about collisions is provided by SPD and recorded by Traffic Records. The dataset includes information about 194,673 collisions of all types in 
+Seattle from beginning of 2014 to May of 2020.
+For each collision the dataset contains coordinates of the incident, its severity, number of people and cars involved, incident date and time, wheather 
+and road condition, whether or not a driver involved was under the influence of drugs or alcohol.
