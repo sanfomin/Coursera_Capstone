@@ -1,1 +1,4 @@
-Many car accidents occur due to bad road or wheather conditions in certain places. Some of the accidnets could have been avoided if preventive actions would have been implemented, like setting speed limits, warnings for drivers or improving the traffic flows. In order to take preventive actions neeed to analyse the accident data for the previous years and determine correlation of the number and severity of the accidents with wheather conditions, road conditions, time of the day and location.
+Many car accidents occur due to bad road or wheather conditions in certain places. Some of the accidnets could have been avoided 
+if preventive actions would have been implemented, like setting speed limits, warnings for drivers or improving the traffic flows. 
+In order to take preventive actions neeed to analyse the accident data for the previous years and determine correlation of the 
+number and severity of the accidents with wheather conditions, road conditions, time of the day and location.
